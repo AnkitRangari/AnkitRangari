@@ -1,16 +1,42 @@
-## Hi there 👋
+![logo](https://github.com/AnkitRangari/AnkitRangari/blob/main/Github%20img.jpg)
+<h1 align="center">Hi there 👋, I'm Ankit Rangari</h1>
+<h3 align="center">Analyzing Today's Data For Tomorrow's Decision</h3>
 
-<!--
-**AnkitRangari/AnkitRangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrangari&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrangari" /> </p>
 
-Here are some ideas to get you started:
+## About
+► I'm Ankit, an aspiring data analyst with a passion for turning data into practical solutions. I'm eager to learn and grow in this dynamic field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+► My key skills include data analysis, data visualization, and proficiency in Google sheet, Power Bi. I'm also adept at problem-solving and effective communication.
+
+► Post graduated in MBA and switched my domain into data analytics was a very great journey for me. I'm committed to continuous learning and professional development to fuel my passion for data-driven insights.
+
+➡️𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐰𝐨𝐫𝐤-
+
+► 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 - Data cleaning, Extract Transform & Load [ETL], Data Modelling, DAX, Data Visualization & Dashboards.
+
+► 𝐒𝐐𝐋
+
+► 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐆𝐨𝐨𝐠𝐥𝐞 𝐒𝐡𝐞𝐞𝐭 - Pivot Tables, Charts, Lookups, Power Query and Power Pivot.
+
+➡️𝐌𝐲 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐫𝐞𝐚𝐬,
+► Data Cleaning
+► Data visualization
+► Data Analysis & Interpretation
+► Dash boarding
+► Business Analytics
+
+➼ Currently seeking new opportunities to leverage my Data Analysis skills and technical expertise in the IT industry. Whether it's a full-time role, internship, or project-based assignment. I am eager to contribute and grow. Let's Connect & explore potential collaborations!
+
+➼ Thanks for visiting my profile, and I look forward to collaborating in the exciting world of technology
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ankit-rangari](www.linkedin.com/in/ankit-rangari)
+
+- 📫 How to reach me **work.ankitrangari@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankit-rangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-rangari" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrangari&show_icons=true&locale=en" alt="ankitrangari" /></p>
