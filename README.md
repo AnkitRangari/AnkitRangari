@@ -1,4 +1,4 @@
-![logo](https://github.com/AnkitRangari/AnkitRangari/blob/main/Github%20img.jpg)
+![logo](https://github.com/AnkitRangari/AnkitRangari/blob/main/IMG_6174.PNG)
 <h1 align="center">Hi there 👋, I'm Ankit Rangari</h1>
 <h3 align="center">Analyzing Today's Data For Tomorrow's Decision</h3>
 
