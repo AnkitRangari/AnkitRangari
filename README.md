@@ -30,6 +30,6 @@
 
 ➼ Thanks for visiting my profile, and I look forward to collaborating in the exciting world of technology
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ankit-rangari](www.linkedin.com/in/ankit-rangari)
+- 👨‍💻 All of my projects are available at (www.linkedin.com/in/ankit-rangari)
 
 - 📫 How to reach me **work.ankitrangari@gmail.com**
