@@ -15,7 +15,9 @@
 
 ► 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 - Data cleaning, Extract Transform & Load [ETL], Data Modelling, DAX, Data Visualization & Dashboards.
 
-► 𝐒𝐐𝐋
+► 𝐒𝐐𝐋 - Advance Queries, Joins, Aggregate Functions, Windows Functions, CTE.
+
+►𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 (𝐄𝐃𝐀) – Identifying patterns, trends, and insights through statistical analysis, data visualization, and descriptive analytics techniques.
 
 ► 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐆𝐨𝐨𝐠𝐥𝐞 𝐒𝐡𝐞𝐞𝐭 - Pivot Tables, Charts, Lookups, Power Query and Power Pivot.
 
